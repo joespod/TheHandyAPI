@@ -5,7 +5,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>NuGet.Workflow</PackageId>
+		<PackageId>HandyAPI</PackageId>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/joespod/TheHandyAPI</RepositoryUrl>
 	</PropertyGroup>
